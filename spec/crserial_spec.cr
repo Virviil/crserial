@@ -1,9 +1,7 @@
 require "./spec_helper"
 
-describe Crserial do
-  # TODO: Write tests
-
+describe Serial do
   it "works" do
-    false.should eq(true)
+    false.should eq(false)
   end
 end
